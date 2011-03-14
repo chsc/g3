@@ -8,4 +8,5 @@ Needs Go-SDL and Go-OpenGL to run.
  * Geomipmapping
  * to be continued ...
 
-![geomipmapping](https://github.com/chsc/g3/blob/master/doc/geomipmapping.png)
+
+![geomipmapping](https://github.com/chsc/g3/raw/master/doc/geomipmapping.png)
