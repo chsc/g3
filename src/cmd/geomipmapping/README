@@ -1,0 +1,11 @@
+Geomipmapping
+-------------
+
+Use mouse to look around.
+
+Keys:
+	W, A     accelerate forward/backward
+	F1       toggle solid/wireframe rendering
+	PageUp   move up (along z axis)
+	PageDown move down (along z axis)
+
